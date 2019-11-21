@@ -7,6 +7,6 @@
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App Stud.IU](https://repl.it/@gblastic/StudIU-INFO-101-PROJECT)
 
 [Project Board](../../projects/1)
